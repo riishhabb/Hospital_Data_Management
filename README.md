@@ -24,4 +24,7 @@ Hospital data Management software using MySQL Workbench, C++ and SQL
 <h3>Schema Diagram</h3>
 <img src  = "https://github.com/riishhabb/Hospital_Data_Management/blob/main/Schema%20Diagram.png">
 
+<h3>ER Diagram</h3>
+<img src = "ER Diagram.png">
+
 
