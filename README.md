@@ -4,7 +4,9 @@ Hospital data Management software using MySQL Workbench, C++ and SQL
 
 <h3>Need To Work On</h3>
 
-1. 
+1. Developing a front-end for the project
+2. Pre-defining tasks for user interface
+3. Publish the database for everyone to access
 
 <h3>Prerequistes</h3>
 
