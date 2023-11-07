@@ -21,4 +21,7 @@ Hospital data Management software using MySQL Workbench, C++ and SQL
 3. Github
 4. XAMPP Server
 
+<h3>Schema Diagram</h3>
+<img src  = "https://github.com/riishhabb/Hospital_Data_Management/blob/main/Schema%20Diagram.png">
+
 
